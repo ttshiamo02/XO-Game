@@ -27,11 +27,11 @@ A stylish Tic Tac Toe game built with React Native  featuring a light purple and
 
  ## HOME SCREEN
 
-<img width="500" height="800" alt="Home Screen" src="https://github.com/user-attachments/assets/944d5041-c0b1-4b54-a953-eb9397734ab4" />
+<img width="350" height="500" alt="Home Screen" src="https://github.com/user-attachments/assets/944d5041-c0b1-4b54-a953-eb9397734ab4" />
 
  ## SECOND SCREEN
  
-<img width="761" height="1076" alt="Second Screen" src="https://github.com/user-attachments/assets/3c83693d-640c-4fa7-9359-21c4fddbe4ae" />
+<img width="350" height="500" alt="Second Screen" src="https://github.com/user-attachments/assets/3c83693d-640c-4fa7-9359-21c4fddbe4ae" />
 
 
 
