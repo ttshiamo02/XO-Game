@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A stylish Tic Tac Toe game built with React Native and TypeScript featuring a light purple and black color scheme.
+A stylish Tic Tac Toe game built with React Native  featuring a light purple and black color scheme.
 
 ## Features
 
